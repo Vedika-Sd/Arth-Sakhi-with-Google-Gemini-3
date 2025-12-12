@@ -3,6 +3,8 @@
 </div>
 
 # Run and deploy your AI Studio app
+Use Live and start your finical literacy journey
+https://ai.studio/apps/drive/102BDC4vVdwWbfGYurb-T684G2Z48rm2f?fullscreenApplet=true
 
 This contains everything you need to run your app locally.
 
